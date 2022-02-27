@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the whole proceedings of the late rising and commotion in Wales, under pretence for the King and Sir Tho: Fairfax. Represented in several letters to the Parliament, and His Excellency Sir Thomas Fairfax. With the answers and replies. Also the names of the chief actors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84997</idno>
+            <idno type="STC">Wing F2374</idno>
+            <idno type="STC">Thomason E396_9</idno>
+            <idno type="STC">ESTC R201645</idno>
+            <idno type="EEBO-CITATION">99862145</idno>
+            <idno type="PROQUEST">99862145</idno>
+            <idno type="VID">114294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114294)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the whole proceedings of the late rising and commotion in Wales, under pretence for the King and Sir Tho: Fairfax. Represented in several letters to the Parliament, and His Excellency Sir Thomas Fairfax. With the answers and replies. Also the names of the chief actors.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leech,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iuly 2. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Glamorgan (Wales) --  History</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114294:1"/>
+            <pb facs="tcp:114294:1" rendition="simple:additions"/>
+            <p>A FULL RELATION OF The whole Proceedings of the late Riſing and Commotion in WALES, Under Pretence for The <hi>King</hi> and Sir <hi>Tho: Fairfax.</hi>
+            </p>
+            <p>Repreſented in ſeveral LETTERS to the Parliament, and His Excellency Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>With the ANSWERS and REPLIES.</p>
+            <p>ALSO The Names of the chief Actors.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Francis Leech, Iuly</hi> 2. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114294:2"/>
+            <pb n="3" facs="tcp:114294:2"/>
+            <head>A LETTER FROM Major General <hi>Laughorn,</hi> TO The Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt rumor of His Majeſties departure with the Army, hath put the Delinquents in Glamor<g ref="char:EOLhyphen"/>ganſhire into their old Frenzy; the incloſed Papers will expreſs their preſent Poſture, and ſhorten my Rela<g ref="char:EOLhyphen"/>tion: The Leaders of them are of the prin<g ref="char:EOLhyphen"/>cipal Delinquents engaged in the former
+<pb n="4" facs="tcp:114294:3"/>Revolt of that County, and whom the Par<g ref="char:EOLhyphen"/>liaments clemency for offences paſt hath oc<g ref="char:EOLhyphen"/>caſioned to this ingrateful relapſe: Divers of the well-affected Gentry of that County disfavor their courſes, and caſt about for their own ſecurity; ſome of them are come hither to me, and I am drawing up my Forces thi<g ref="char:EOLhyphen"/>therward, to ſuppreſs the Inſolency; and finde my Soldiers, I thank God, very chearful and inoffenſive where they come, not capi<g ref="char:EOLhyphen"/>tulating for any Conditions: I ſhall (God willing) never deſert my firſt Principles for the Parliament of ENGLAND; The iſſue of this Inſurrection probably will occaſion ſpeedy and frequent ſeconds of this Addreſs, by him who is,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>The States and your loyal Servant, <hi>Rowland Laughorn.</hi>
+               </signed>
+               <dateline>Carmarthen, <date>17 Junii, 1647,</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:114294:3"/>
+            <head>To the Honorable, Major General <hi>La<g ref="char:V">Ʋ</g>GHORN.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT hath pleaſed God to make Sir <hi>Thomas Fairfax</hi> his Army a miraculous means of the KINGS Reſtitution (in appearances) Theſe Counties, very apprehenſive of their long deſired Liberty and preſent Sufferings, have already declared for the King and Sir <hi>Thomas Fairfax:</hi> Now that there might be nothing untimely done to your prejudice, We thought it fit to communicate ſo much of our buſineſs as can be no way prejudicial to yours; We ſhould be very glad to hear how you look upon our proceedings, and un<g ref="char:EOLhyphen"/>feignedly reſt,</p>
+            <closer>
+               <dateline>
+                  <date>June 4. 1647.</date>
+               </dateline>
+               <signed>Your humble Servants,
+<list>
+                     <item>Tho: Not.</item>
+                     <item>Edward Thomas.</item>
+                     <item>Rich: Baſſet.</item>
+                     <item>Jo: Stradling.</item>
+                     <item>Tho: Thomas.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:114294:4"/>
+            <head>To the Honorable, Major General LAUGHORN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THere hath hapned a buſineſs in Cow<g ref="char:EOLhyphen"/>bridge, which may (except you be plea<g ref="char:EOLhyphen"/>ſed to interpret it in a fair ſence) be lyable to a miſconſtruction; The truth is, the Com<g ref="char:EOLhyphen"/>mittee, as is known, had an intent to ſeize on the perſons of divers Gentlemen, ſome whereof for their ſecurity betook themſelves to Cowbridge, and there made bold with the Magazine, without any the leaſt meaning of oppoſition or diſreſpect to you, to whom by many civilities they are much obliged: And being certain of His Majeſties conjunction with Sir <hi>Thomas Fairfax</hi> his Forces, they conceived they had been wanting to them<g ref="char:EOLhyphen"/>ſelves, in not providing ſo well for their ſafe<g ref="char:EOLhyphen"/>ty as they could. And they more then hope you will be ſo far from being any way diſ<g ref="char:EOLhyphen"/>pleaſed
+<pb n="7" facs="tcp:114294:4"/>with it, as to receive aſsiſtance from you in their juſt and neceſſary Defence; whereby you ſhal eternally oblige the whole Countrey, and more particularly</p>
+            <closer>
+               <dateline>Cowbridge, <date>14. June, 1647.</date>
+               </dateline>
+               <signed>Your moſt humble Servants,
+<list>
+                     <item>Jo: Stradling.</item>
+                     <item>Tho: Stradling.</item>
+                     <item>Jo: Vanne.</item>
+                     <item>Will: Baſſet.</item>
+                     <item>Rich: Gwyn.</item>
+                     <item>William Merrick.</item>
+                     <item>Edward Seis.</item>
+                     <item>George Gibbon.</item>
+                     <item>William Flemming.</item>
+                     <item>Theodore Baſſet.</item>
+                     <item>Richard Baſſet.</item>
+                     <item>Henry Stradling.</item>
+                     <item>William Baſſet.</item>
+                     <item>Robert Thomas.</item>
+                     <item>Thomas Baſſet.</item>
+                     <item>David Buckley.</item>
+                     <item>Jo: Walter.</item>
+                     <item>Miles Watkins.</item>
+                     <item>Jo: Powel.</item>
+                     <item>Rich: Wilcoke.</item>
+                     <item>John Stradling.</item>
+                     <item>John Jones.</item>
+                     <item>Rice Merrick.</item>
+                     <item>Robert Corroche.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:114294:5"/>
+            <head>To His Excellency, Sir <hi>Tho: Fairfax,</hi> General of the Parliaments Forces.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>THeſe laſt days there appeared a ſudden and violent Diſtraction in <hi>Glamorganſhire;</hi> I ſhall uſe all my power and diligence to alay it, and expect your Ex<g ref="char:EOLhyphen"/>cellencies Orders for my proceedings, and the rather, in that the turbulent party, as I am informed, pretend your Excellencies Authority for what they do. The incloſed copies of ſome Expreſſes I received out of theſe parts, and of one of the Delinquents Warrants, will ſupply what I here omit: The chief actors are an<g ref="char:EOLhyphen"/>cient Malignants of a deep ſtain, and can pretend no Grievance but the juſt and conſcientious proceedings of the Committee, according to the Ordinances of Parliament: Other Gentlemen well-affected and of good quality in the countrey, are not ingaged among them, but ſtand upon their Guard. This is all I can at preſent in that affair preſent to your Excellency, with my humble ſervice, and readineſs to obey what com<g ref="char:EOLhyphen"/>mands you will pleaſe to impoſe on</p>
+            <closer>
+               <dateline>Carmarthen, <date>17 June, 1647.</date>
+               </dateline>
+               <signed>Your Excellencies moſt humble Servant, <hi>Rowland Laughorn.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:114294:5"/>
+            <head>To Major General <hi>Laughorn.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>WEE have in a former Letter made bold to intimate unto you the ne<g ref="char:EOLhyphen"/>ceſsity of our preſent Poſture, which we in the Name of the whole Countrey muſt ſtill affirm to be no ways tending to the di<g ref="char:EOLhyphen"/>minution of your reſpects with us, but meant onely for the vindication of our E<g ref="char:EOLhyphen"/>ſtates and Liberties from the unjuſt and Ar<g ref="char:EOLhyphen"/>bitrary diſpoſition of Committees here; on the mediation of whoſe Friends, we have not<g ref="char:EOLhyphen"/>withſtanding thus far complied with their deſires: Yet upon aſſurance given, The In<g ref="char:EOLhyphen"/>habitants of this County may enjoy their Liberties and Eſtates, and all Taxations (o<g ref="char:EOLhyphen"/>ther then ſuch that are for the Army) be for-born, until, by Gods bleſsing, the preſent unſettledneſs of Supreme Affairs be compo<g ref="char:EOLhyphen"/>ſed, we ſhall not farther proceed on theſe terms whereon we now inſiſt: This, for ought we can yet diſcover to the contrary,
+<pb n="10" facs="tcp:114294:6"/>may in a very few days determine our in<g ref="char:EOLhyphen"/>ſtant Differences: However we ſhall not fail to advertiſe you of what farther courſes the proſecution may engage us to, and ever remain,</p>
+            <closer>
+               <dateline>St. Lythins Down, <date>15 Junii, 1647.</date>
+               </dateline>
+               <signed>Your humble Servants,
+<list>
+                     <item>Richard Baſſet.</item>
+                     <item>Henry Stradling.</item>
+                     <item>Thomas Stradling.</item>
+                     <item>Charls Kemis.</item>
+                     <item>John Stradling.</item>
+                     <item>Thomas Not.</item>
+                     <item>Henry Baſſet.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:114294:6"/>
+            <opener>
+               <salute>To the High Conſtables of the Hun<g ref="char:EOLhyphen"/>dred of <hi>Miskine,</hi> and to eve<g ref="char:EOLhyphen"/>ry of them.</salute>
+            </opener>
+            <p>VVEE require you forthwith to di<g ref="char:EOLhyphen"/>rect your Warrants to the Petty-Conſtables of the ſeveral Pariſhes within your Hundred, That they ſummon all able men from Sixteen to Sixty, to appear before us at <hi>Cowbridge,</hi> to morrow, by Nine of the clock in the morning, with all Horſes fit for Service, or Dragoons, and all ſuch Arms as are Defenſive or Offenſive, as they have or can come by, for the uſe of the Kings Ma<g ref="char:EOLhyphen"/>jeſty and Sir <hi>Thomas Fairfax</hi> General, for the preſervation of the Peace and Safety of this County: Hereof fail not, as you owe your Allegiance to His Majeſty.</p>
+            <closer>
+               <dateline>Dated <date>13 <hi>Iunii,</hi> 1647.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Edw: Thomas.</item>
+                     <item>Richard Baſſet.</item>
+                     <item>Tho: Not.</item>
+                     <item>Greenvile Weeks.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:114294:7"/>
+            <head>To the Honorable, Major General LAUGHORN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am very glad, that by your watchfulneſs and dili<g ref="char:EOLhyphen"/>gence you have ſo timely prevented the inconve<g ref="char:EOLhyphen"/>nience of the riſing of theſe Men in <hi>Wales</hi> (according as your Letters mention;) I believe too many are apt to make advantages of the preſent diſcompoſure of Affairs to work their own ends, though it be to the diſturbance of the whole Kingdom. Its very true, I have made ſome Repreſentations to the Par<g ref="char:EOLhyphen"/>liament, and I hope their Wiſdom and Juſtice will ſo anſwer our Expectations, as that we ſhall ſpeedily ſee an happy compoſure of all Differences, and a ſettlement of all Rights, both to the King, the Par<g ref="char:EOLhyphen"/>liament, and the People, to the comfort and ſatisfa<g ref="char:EOLhyphen"/>ction of all men that wiſh well to Peace and Righte<g ref="char:EOLhyphen"/>ouſneſs: I deſire you ſtill to continue your care in thoſe parts to prevent any evil of this kinde, and to let all men know, That I cannot in the leaſt allow of ſuch proceedings, but ſhall ſend to your aſſiſtance to ſuppreſs them, if need ſo require, and that you do give me ſeaſonable notice thereof: I reſt,</p>
+            <closer>
+               <dateline>Barkhamſtead, <date>June 25. 1647</date>
+               </dateline>
+               <signed>Your very loving Friend, <hi>Tho: Fairfax.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:114294:7"/>
+            <head>To His Excellency, Sir <hi>Tho: Fairfax,</hi> General of the Parliaments Forces.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>MY Letter of the 17. inſtant informed your Ex<g ref="char:EOLhyphen"/>cellency of a violent Diſtraction in Glamor<g ref="char:EOLhyphen"/>ganſhire, which I have been diligent to alay without the effuſion of innocent blood: The Countrey hear<g ref="char:EOLhyphen"/>ing of my approach, deſerted the chief Actors, whom to the number of Fifty, all well mounted, are fled the Countrey; the Names of them are ſub<g ref="char:EOLhyphen"/>ſcribed to the Letters I ſent your Excellency, onely ſome few added: They had convened Fifteen hun<g ref="char:EOLhyphen"/>dred or Two thouſand, pretending Authority for ſo doing; but the Countrey are made ſenſible how they were ſeduced, and I ſhall neglect no diligence to ſettle quietneſs, and remove the diſturbers of it. This Accompt in duty I conceived my ſelf bound to give your Excellency, and remain,</p>
+            <closer>
+               <dateline>Cardiff, <date>21 Junii, 1647.</date>
+               </dateline>
+               <signed>Your Excellencies moſt humble Servant, <hi>Rowland Laughorn.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:114294:8"/>
+            <head>His Excellencies anſwer to the former Letter dated at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> 
+               <date>Iune 29. 1647.</date>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs from Cardiff of June 21. I received this day; I hope my laſt unto you from Barkhamſtead, will give you ſatisfaction con<g ref="char:EOLhyphen"/>cerning the proceedings here, and how far we are from countenancing any that ſhall raiſe Forces againſt the Parliament, or thoſe imployed by them.</p>
+            <p>Your care and diligence in preſerving thoſe parts in peace, will be an acceptable ſervice to the Kingdom.</p>
+            <p>Things here are like to come to a ſpeedy compoſure, both Houſes having agreed to ſend Commiſsioners to Treat and Debate of buſineſs in order to the preſent ſettlement of
+<pb n="15" facs="tcp:114294:8"/>the peace of the Kingdom, which is a thing much deſired by all, and I hope in a ſhort time will be effected, to the quiet and con<g ref="char:EOLhyphen"/>tent of the Kingdom.</p>
+            <p>For thoſe Forces of Horſe and Foot which you brought lately into <hi>Glamorganſhire</hi> upon the late occaſion; I deſire you to remove them back into thoſe counties where they were formerly quartered. I remain</p>
+            <closer>
+               <signed>Your aſſured Friend, <hi>Tho: Fairfax.</hi>
+               </signed>
+               <dateline>Vxbridge, <date>June 29. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
